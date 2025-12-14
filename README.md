@@ -13,8 +13,7 @@ track progress, and understand their workflow from one place.
 - Deployed on Vercel
 
 ## Live Demo
-https://YOUR-VERCEL-LINK.vercel.app
-
+https://upstart-landing-page-git-main-dineshs-projects-f60e75bb.vercel.app
 ## Run Locally
 npm install
 npm run dev
