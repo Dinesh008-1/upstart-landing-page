@@ -9,7 +9,7 @@ function Navbar() {
         borderBottom: "1px solid #eee",
       }}
     >
-      <h2>Upstart</h2>
+      <h2 style={{ fontSize: "32px", fontWeight: "600" }}>Upstart</h2>
       <button>Get Started</button>
     </nav>
   );
